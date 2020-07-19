@@ -1,1 +1,1 @@
-![Mr Roboto] (http://www.theoldrobots.com/images43/Robbie-24.JPG)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
