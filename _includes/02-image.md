@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Mr Roboto] (http://www.theoldrobots.com/images43/Robbie-24.JPG)
